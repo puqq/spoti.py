@@ -1,2 +1,2 @@
 # spoti.py
-recommends music/generates playlists for you based on your current emotions using spotify api 
+Transfers playlists between Spotify and Apple Music
